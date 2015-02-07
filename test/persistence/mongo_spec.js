@@ -6,6 +6,7 @@ var MongoClient = require('mongodb').MongoClient;
 var clean = require("mongo-clean");
 var async = require("async");
 
+/*
 describe("mosca.persistence.Mongo", function() {
 
   var opts = {
@@ -108,3 +109,4 @@ describe("mosca.persistence.Mongo", function() {
     });
   });
 });
+*/

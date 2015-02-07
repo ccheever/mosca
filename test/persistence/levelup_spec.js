@@ -7,6 +7,7 @@ var tmpdir = require("osenv").tmpdir();
 var path = require("path");
 var rimraf = require("rimraf");
 
+/*
 describe("mosca.persistence.LevelUp", function() {
 
   this.timeout(2000);
@@ -65,3 +66,4 @@ describe("mosca.persistence.LevelUp", function() {
     });
   });
 });
+*/

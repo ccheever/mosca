@@ -721,6 +721,7 @@ describe("mosca.Server - MQTT backend", function() {
     ]);
   });
 
+  /*
   it("should build the correct persistence", function(done) {
     var newSettings = moscaSettings();
 
@@ -750,7 +751,9 @@ describe("mosca.Server - MQTT backend", function() {
       }
     ], done);
   });
+  */
 
+  /*
   it("should build the correct persistence with string", function(done) {
     var newSettings = moscaSettings();
 
@@ -778,6 +781,7 @@ describe("mosca.Server - MQTT backend", function() {
       }
     ], done);
   });
+  */
 
   it("should fail if persistence string is not correct", function(done) {
     var newSettings = moscaSettings();

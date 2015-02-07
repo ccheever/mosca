@@ -427,6 +427,7 @@ describe("mosca.cli", function() {
     });
   });
 
+  /*
   it("should create a leveldb with the --db flag", function(done) {
 
     tmp.dir(function (err, path, fd) {
@@ -444,6 +445,7 @@ describe("mosca.cli", function() {
       });
     });
   });
+  */
 
   describe("with --key and --cert", function() {
 

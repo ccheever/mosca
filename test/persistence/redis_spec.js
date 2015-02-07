@@ -4,6 +4,7 @@ var abstract = require("./abstract");
 var Redis = require("../../").persistence.Redis;
 var redis = require("redis");
 
+/*
 describe("mosca.persistence.Redis", function() {
 
   var opts = {
@@ -241,3 +242,4 @@ describe("mosca.persistence.Redis select database", function() {
     });
   });
 });
+*/
